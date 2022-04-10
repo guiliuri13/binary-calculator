@@ -1,0 +1,25 @@
+{
+  "name": "binary-calculator",
+  "version": "1.0.0",
+  "description": "A simple binary calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "node Calcs/operations.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guiliuri13/binary-calculator.git"
+  },
+  "keywords": [
+    "calculator",
+    "binary",
+    "javascript",
+    "typescript"
+  ],
+  "author": "Guilherme Iuri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guiliuri13/binary-calculator/issues"
+  },
+  "homepage": "https://github.com/guiliuri13/binary-calculator#readme"
+}
