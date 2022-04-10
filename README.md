@@ -9,3 +9,10 @@ Initially i used node + typescript, and i had the intention of turning the proje
 
 ## How to use
 Copy the script of the desired method, change the numbers in the indicated places, and run it in your preferred terminal (VS code, dev tools...). (hence the idea of ​​turning it into an api...)
+
+## Technologies used
+- Node.js
+- JavaScript
+
+##
+  _This code is free to use. If you publish, please give credit. Please feel free to report any bugs, issues, or fork._
